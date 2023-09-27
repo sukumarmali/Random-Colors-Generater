@@ -1,6 +1,7 @@
 # Random Color Generator
 
 This simple web application allows you to generate random background colors for a web page at the click of a button.
+Visit(https://sukumarmali.github.io/Random-Colors-Generater/)
 
 ## Table of Contents
 
